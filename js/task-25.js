@@ -36,4 +36,5 @@ console.log(todayIcon); // 'https://www.flaticon.com/svg/static/icons/svg/861/86
 console.log(highTomorrow); // 31
 console.log(lowTomorrow); // 27
 console.log(tomorrowIcon); // 'https://www.flaticon.com/svg/static/icons/svg/2204/2204346.svg'
+console.log(forecast.today); // 
 
